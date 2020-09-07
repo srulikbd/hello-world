@@ -3,5 +3,11 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Deep Learning" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Deep Learning/Sentence Semantic Similarity" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Deep-Learning" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Dockerized-Microservice-Template" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Optimized-Modified-GetOldTweets3-OMGOT" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RobinFoodApp/RobinFood" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/streamlit-fastapi-model-serving-1" vcs="Git" />
   </component>
 </project>
